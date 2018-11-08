@@ -10,7 +10,3 @@ class Persegi
     end
 
 end
-
-
-
-
