@@ -33,6 +33,7 @@ elsif a==7
     print "masukkan panjang sisi: "
     s = gets.to_i
     ket = BelahKetupat.new(d1,d2,s)
+    ket.luas
 elsif a==6
     
 loop do
