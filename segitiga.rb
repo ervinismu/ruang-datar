@@ -43,3 +43,5 @@ keliling_segitiga = segitiga1.keliling
 
 puts "Luas Segitiga:  #{luas_segitiga}"
 puts "Keliling Segitiga:  #{keliling_segitiga}"
+
+
