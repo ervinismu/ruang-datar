@@ -11,9 +11,6 @@ class Persegi
 
 end
 
-menghitung_luas = Persegi.new(gets.to_i)
-menghitung_luas.hitung_luas
-
 
 
 
