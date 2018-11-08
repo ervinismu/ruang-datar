@@ -7,11 +7,12 @@ class BelahKetupat
   end
 
   def luas
-	(@d1 * @d2)/2
+  luas = (@d1 * @d2)/2
+  puts "Luas = #{luas}"
   end
 
-  def keliling
-	@sisi * 4
-  end
+  # def keliling
+	# @sisi * 4
+  # end
 
 end
