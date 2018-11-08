@@ -7,3 +7,5 @@ class JajarGenjang
         @alas * @tinggi
     end
 end
+
+.
