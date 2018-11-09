@@ -4,6 +4,7 @@ require './belahketupat'
 require './trapesium'
 require './segitiga'
 require './jajargenjang'
+require './PersegiPanjang'
 
 puts "SELAMAT DATANG"
 puts "=================================================================="
@@ -33,6 +34,13 @@ elsif
   persegi = Persegi.new(s)
 
 elsif a==3 #persegi panjang
+    print "Masukkan nilai panjang: "
+    p = gets.to_i
+    print "Masukkan nilai lebar: "
+    l = gets.to_i
+    
+    ppanjang = PersegiPanjang.new(p,l)
+    ppanjang.luas
 
 elsif a==4 #lingkaran
     

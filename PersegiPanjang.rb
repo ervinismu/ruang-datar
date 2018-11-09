@@ -11,13 +11,13 @@ class PersegiPanjang
 end
 
 
-    puts "Hitung Luas Persegi Panjang"
-    print "Panjang : "
-    panjang = gets.to_i
-    print "Lebar : "
-    lebar= gets.to_i
+    # puts "Hitung Luas Persegi Panjang"
+    # print "Panjang : "
+    # panjang = gets.to_i
+    # print "Lebar : "
+    # lebar= gets.to_i
     
    
-    hitung_luas = PersegiPanjang.new(panjang, lebar)
-    hitung_luas.luas
-    
+    # hitung_luas = PersegiPanjang.new(panjang, lebar)
+    # hitung_luas.luas
+    # PM say: ga butuh inputan
