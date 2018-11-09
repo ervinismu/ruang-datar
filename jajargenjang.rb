@@ -4,8 +4,7 @@ class JajarGenjang
         @tinggi = tinggi
     end 
     def luas
-        @alas * @tinggi
+        luasnya = @alas * @tinggi
+        puts "Luas jajar genjang adalah: #{luasnya}"
     end
 end
-
-.
