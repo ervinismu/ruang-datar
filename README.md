@@ -1,7 +1,7 @@
 # ruang-datar
 
 -PM alvianzf :: main.rb
--persegi: fajar
+-persegi: fajar 
 -persegipanjang: eko
 -segitiga: husnul
 -lingkaran: sundunusi
