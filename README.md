@@ -1,6 +1,6 @@
 # ruang-datar
 
-PM alvianzf
+-PM alvianzf :: main.rb
 -persegi: fajar
 -persegipanjang: eko
 -segitiga: husnul
