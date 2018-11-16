@@ -1,4 +1,4 @@
-class Layang_layang
+class LayangLayang
 
     def initialize(d1, d2)
       @diagonal1 = d1
@@ -11,7 +11,3 @@ class Layang_layang
   
   end
   
-  layang1 = Layang_layang.new(2, 5)
-  luas_layangan = layang1.luas
-  
-  puts "layangan: #{luas_layangan}"

@@ -1,8 +1,3 @@
-puts "=================="
-puts "Selamat datang"
-puts "=================="
-print "Masukkan sisi: "
-
 class Persegi
 
     def initialize(sisi)
@@ -14,6 +9,7 @@ class Persegi
         puts "luas persegi dengan sisi #{@sisi} adalah #{luas_total}"
     end
 
+<<<<<<< HEAD
 end
 
 menghitung_luas = Persegi.new(gets.to_i)
@@ -22,3 +18,6 @@ menghitung_luas.luas
 
 
 
+=======
+end
+>>>>>>> master
