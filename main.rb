@@ -1,5 +1,5 @@
 require './layang-layang'
-require './persegi'
+#require './persegi'
 require './belahketupat'
 require './trapesium'
 require './segitiga'
